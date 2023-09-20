@@ -523,3 +523,6 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+.img-fluid {
+    border-radius: 5px;
+}
